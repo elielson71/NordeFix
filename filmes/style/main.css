@@ -65,7 +65,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, 0.692)100px), url('../img/auto.png');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, 0.692)100px), url('/img/ultimo\ cangaceiro.jpg');
     height: 400px;
     background-size: cover;
     display: flex;
