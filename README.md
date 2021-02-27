@@ -33,5 +33,3 @@ Usei a dependencia do font-awesome
 ```
  Fora isso só é só baixar ou clonar e fazer alteração para seu aprendizado.
  
-
- 
