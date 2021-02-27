@@ -17,7 +17,7 @@
   - fontawesome
   - owlcarousel2
 
-## Uso e modificações
+## :books: Uso e modificações
 Usei a dependencia do font-awesome
 ```
   $ npm install font-awesome
