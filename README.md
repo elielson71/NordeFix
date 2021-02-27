@@ -15,8 +15,7 @@
 <h2> :information_source: Sobre</h2>
 
  Uma Netflix com filmes gravados no nordeste brasileiro, dos mais famosos 
- como <b>Auto da Compadecida</b> e outros como <b>Os pretendentes da filme do coroné </b>, para sim os nordestino e brasil todo se divertiver com os engraçados e facinantes roteiro com divertido do mundo.
-
+ como <b>Auto da Compadecida</b> e outros como <b>Os Pretendentes da filha do Coroné </b>, para sim os nordestino e brasil todo se divertir com os engraçados e fascinantes roteiro com divertido do mundo.
  
  
  
