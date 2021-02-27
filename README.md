@@ -1,4 +1,6 @@
 <h2 align="center">NORDEFLIX</h2>
 <p align="center">
-![logo](https://user-images.githubusercontent.com/31736507/109390420-57798d00-78f0-11eb-9b67-6e674c4f8938.png)
+<img src='img/02⁄25⁄2119-02-19.png' width="500px"></img>
 </p>
+
+<h3> :information_source: Sobre</3>
