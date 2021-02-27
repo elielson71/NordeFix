@@ -1,4 +1,5 @@
-<h1 align="center">NORDEFLIX</h1>
+ <h1 align="center"><img src='favicon.ico' width="100px"></br>NORDEFLIX</h1></p>
+
 <p align="center">
 <img src='img/nordeflix.png' width="500px"></img>
 </p>
