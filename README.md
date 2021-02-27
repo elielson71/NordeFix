@@ -1,6 +1,6 @@
 <h1 align="center">NORDEFLIX</h1>
 <p align="center">
-<img src='img/02⁄25⁄2119-02-19.png' width="500px"></img>
+<img src='favicon.icon' width="500px"></img>
 </p>
 
 <h2> :information_source: Sobre</h2>
