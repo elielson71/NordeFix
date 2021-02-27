@@ -1,4 +1,6 @@
-# NORDEFLIX
-![](https://user-images.githubusercontent.com/31736507/109387350-b84c9980-78df-11eb-842e-76e8b6cc7f3d.png)
+#
+<p style="text-align: center;">NORDEFLIX</p>
+<p style="text-align: center;">
+<img src='img/02⁄25⁄2119-02-19.png' width="400px"></img></p>
 
 
