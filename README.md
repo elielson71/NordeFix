@@ -1,8 +1,16 @@
 <h1 align="center">NORDEFLIX</h1>
 <p align="center">
-<img src='img/02⁄25⁄2119-02-19.png' width="500px"></img>
+<img src='img/nordeflix.png' width="500px"></img>
 </p>
-
+<p align="center">
+ <table >
+   <tr>
+    <td><img src='img/filmes_princiapl.png' width="400px">
+    </td><td><img src='img/filmes.png' width="300px"></td>
+    <td><img src='img/nordeflix.png' width="250px"></img></td>
+   <tr>
+ </table>
+ </p>
 <h2> :information_source: Sobre</h2>
 
  Uma Netflix com filmes gravados no nordeste brasileiro, dos mais famosos 
@@ -24,4 +32,6 @@ Usei a dependencia do font-awesome
   $ npm install font-awesome
 ```
  Fora isso só é só baixar ou clonar e fazer alteração para seu aprendizado.
+ 
+
  
